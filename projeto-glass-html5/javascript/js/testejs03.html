@@ -3,24 +3,30 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Teste JS 02</title>
+    <title>Teste JS 03</title>
     <script>
+        var quebrada = false;
         function mudaLampada(tipo) {
             if (tipo == 1) {
-                arquivo = "../img/lampada-acesa.jpg";
+                arquivo = "../../img/lampada-acesa.jpg";
             } 
             if (tipo == 2) {
-                arquivo = "../img/lampada-apagada.jpg"
+                arquivo = "../../img/lampada-apagada.jpg"
             }
             if (tipo == 3) {
-                arquivo = "../img/lampada-quebrada.jpg"
+                arquivo = "../../img/lampada-quebrada.jpg"
             }
-            document.getElementById("luz").src="../img/lampada-acesa.jpg";
+            if (!quebrada) {
+                document.getElementById("luz").src = arquivo;
+                if (tipo == 3) {
+                quebrada = true;
+                }
+            }
         }
     </script>
 </head>
 <body>
     <h1>Acenda a lâmpada</h1>
-    <img src="../img/lampada-apagada.jpg" id="luz" onmousemove="mudaLampada(1)" onmouseout="mudaLampada(2)" onclick="mudaLampada(3)">
+    <img src="../../img/lampada-apagada.jpg" id="luz" onmousemove="mudaLampada(1)" onmouseout="mudaLampada(2)" onclick="mudaLampada(3)">
 </body>
 </html>
