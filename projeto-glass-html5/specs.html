@@ -1,14 +1,43 @@
-Google Glass
-A revolução do Google está chegando
+<!DOCTYPE html>
+<html lang="pt-Br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tudo sobre o Google Class</title>
 
-[AQUI ENTRA UMA FOTO]
+    <link rel="stylesheet" href="css/estilo.css">
+</head>
+<script src="javascript/funcoes.js"></script>
+<body>
+    <div id="interface">
+        
+        <!--Cabeçario-->
 
-Menu Principal
-- Home
-- Especificações
-- Fotos
-- Multimídia
-- Fale conosco
+        <header id="cabecalho">
+            <hgroup>
+                <h1>
+                    Google Glass
+                </h1>
+                <h2>
+                    A revolução do Google está chegando
+                </h2>
+            </hgroup>
+
+            <img id="icone" src="img/especificacoes.png" alt="Google Glass">
+
+            <nav id="menu">
+                <h1>Menu Principal</h1>
+                <ul>
+                    <li onmouseover="mudaFoto('img/home.png')" onmouseout="mudaFoto('img/especificacoes.png')"><a href="index.html">Home</a></li>
+                    <li onmouseover="mudaFoto('img/especificacoes.png')" onmouseout="mudaFoto('img/especificacoes.png')"><a href="specs.html">Especificações</a></li> 
+                    <li onmouseover="mudaFoto('img/fotos.png')" onmouseout="mudaFoto('img/especificacoes.png')"><a href="fotos.html">Fotos</a></li> 
+                    <li onmouseover="mudaFoto('img/multimidia.png')" onmouseout="mudaFoto('img/especificacoes.png')"><a href="multimidia.html">Multimídia</a></li>
+                    <li onmouseover="mudaFoto('img/contato.png')" onmouseout="mudaFoto('img/especificacoes.png')"><a href="fale-conosco.html">Fale conosco</a></li> 
+                </ul>
+                  <!-- ol - type="a, A, 1, i, I"  start="começa pela letra ou numero escolhido (sempre colocar numeros)" -->
+                  <!-- ul - type="square, circle, disc" -->
+            </nav>
+        </header>
 
 Glass > Especificações
 Raio-X no Google Glass
@@ -19,5 +48,14 @@ Clique em qualquer área destacada da imagem para ter mais informações sobre o
 
 [AQUI ENTRA UMA IMAGEM]
 
-Copyright 2013 - by Gustavo Guanabara<
-Facebook | Twitter
+        <footer id="rodape">
+                    
+            <p>
+                Copyright &copy; 2020 - by Thiago Pereira <br>
+                <a href="http://facebook.com/cursosemvideo" target="_blank">Facebook</a> | 
+                <a href="http://twitter.com/cursosemvideo" target="_blank">Twitter</a>
+            </p> 
+        </footer>
+    </div> 
+</body>
+</html>
