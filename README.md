@@ -5,8 +5,8 @@
 
 -[Sobre]()
 -[Preview]()
--[Sobre]()
--[Sobre]()
+-[Tecnologias Utilizadas]()
+-[License]()
 -[Sobre]()
 
 # **PROJETO EM DESENVOLVIMENTO**
