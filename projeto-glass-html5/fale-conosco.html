@@ -50,29 +50,50 @@
                 </article>
             </section>
             <form action="">
-                <fieldset>
+                <fieldset id="usuario">
                     <legend>Identificação do Usuário</legend>
-                    Nome:
-                    Senha:
-                    E-mail:
-                    Sexo:
-                        - Masculino
-                        - Feminino
-                    Data de Nascimento:
+                    <p>
+                        <label for="cName">
+                            Nome:
+                        </label> 
+                        <input type="text" name="tNone" id="cNome" size="20" maxlength="30" placeholder="Nome Completo">
+                    </p>
+                    <p>
+                        <label for="cSenha">
+                            Senha: 
+                        </label>
+                        <input type="password" name="tSenha" id="cSenha" size="8" maxlength="8" placeholder="Senha">
+                    </p>
+                    <p>E-mail: <input type="email" name="tMail" id="cManil" size="20" maxlength="40"></p>
+                    <fieldset id="sexo">
+                        <legend>Sexo:</legend>
+                            <input type="radio" name="tSexo" id="cMasc" checked> <label for="cMasc">Masculino</label><br>
+                            <input type="radio" name="tSexo" id="cFem"> <label for="cFem">Feminino</label>
+                    </fieldset>
+                    <p>
+                        Data de Nascimento: 
+                        <input type="data" name="tNasc" id="cNasc">
+                    </p>
                 </fieldset>
-                <fieldset>
+                <fieldset id="endereco">
                     <legend>Endereço do Usuário</legend>
-                    Logradouro:
-                    Número:
+                    <p>
+                        Logradouro:
+                        <input type="text" name="tRua" id="cRua" size="13" maxlength="80" placeholder="Rua, Av, Trav, ...">
+                    </p>
+                    <p>
+                        Número:
+                        <input type="number" name="tNum" id="cNum" min="0" max="9999">
+                    </p>
                     Estado:
                     Cidade:
                 </fieldset>
-                <fieldset>
+                <fieldset id="mensagem">
                     <legend>Mensagem do Usuário</legend>
                     Grau de Urgência:
                     Mensagem:
                 </fieldset>
-                <fieldset>
+                <fieldset id="pedido">
                     <legend>Quero um Google Glass</legend>
                     Gostaria de adquirir um Google Glass quando disponível
                     Cor:
