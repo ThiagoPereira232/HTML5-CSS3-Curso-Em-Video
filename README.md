@@ -8,5 +8,3 @@
 -[Tecnologias Utilizadas]()
 -[License]()
 -[Sobre]()
-
-# **PROJETO EM DESENVOLVIMENTO**
