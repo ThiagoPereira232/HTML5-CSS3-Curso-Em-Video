@@ -9,8 +9,8 @@
 - [Sobre](#sobre)
 - [Preview](#preview)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
-- [License](#license)
 - [Quem Administrou?](#administrou)
+- [License](#license)
 
 ---
 
