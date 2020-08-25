@@ -6,12 +6,11 @@
 
  Projeto realizado durante o curso de HTML5 e CSS3 do Curso em Video, com o professor Gustavo Guanabara.
 
-# Índice
+# :clipboard: Índice
 
--[Sobre]()
--[Preview]()
--[Tecnologias Utilizadas]()
--[License]()
--[Sobre]()
-
+- [Sobre](#dobre)
+- [Preview](#preview)
+- [Tecnologias Utilizadas](#tecnologias-utilizadas)
+- [License](#license)
+- [Quem Administrou?](#administrou)
 
