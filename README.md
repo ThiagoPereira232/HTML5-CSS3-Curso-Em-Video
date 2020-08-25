@@ -56,3 +56,10 @@ Esse projeto foi administrado por **[Gustavo Guanabara](https://github.com/gusta
 
 ---
 
+<a id="license"><a>
+
+## :memo: License
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+---
