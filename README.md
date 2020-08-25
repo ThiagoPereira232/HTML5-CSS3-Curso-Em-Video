@@ -24,3 +24,14 @@ Com a proposta de fazer um site sobre o Google Glass e todas as suas funcionalid
 
 ---
 
+<a id="tecnologias-utilizadas">
+
+# :cd: Tecnologias utilizadas
+
+A plataforma Google Glass utiliza as tecnologias:
+
+- HTML
+- CSS 
+- JavaScript
+
+---
