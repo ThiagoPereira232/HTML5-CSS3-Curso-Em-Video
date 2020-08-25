@@ -65,5 +65,5 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 ---
 
 <p align="center">
-    Desenvolvido com :dark-hearth: por Thiago Pereira
+    Desenvolvido com 💜 por Thiago Pereira
 </p>
