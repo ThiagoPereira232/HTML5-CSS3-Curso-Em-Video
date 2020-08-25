@@ -35,3 +35,15 @@ A plataforma Google Glass utiliza as tecnologias:
 - JavaScript
 
 ---
+
+<a id="contribuir"></a>
+
+## :recycle: Como contribuir
+
+- Faça um Fork desse projeto
+- Crie uma branch
+- Commit suas mudanças
+- Push a sua Branch
+- Crie um Pull Request
+
+---
