@@ -1,5 +1,5 @@
 <h3 aling="center">
-    <img alt="Logo" src=".github/glass-logo-peq.pg">
+    <img alt="Logo" src=".github/glass-logo-peq.jpg">
     <br>
     <p>Um site sobre o Google Glass</p>
 </h3>
