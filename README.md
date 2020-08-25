@@ -47,3 +47,12 @@ A plataforma Google Glass utiliza as tecnologias:
 - Crie um Pull Request
 
 ---
+
+<a id="administrou">
+
+## :earth_americas: Quem administrou?
+
+Esse projeto foi administrado por **[Gustavo Guanabara](https://github.com/gustavoguanabara)** nas aulas do **Curso de HTML5 e CSS3**.
+
+---
+
