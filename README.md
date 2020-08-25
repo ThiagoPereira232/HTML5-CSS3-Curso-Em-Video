@@ -1,4 +1,4 @@
-<h3 aling="center">
+<h3 align="center">
     <img alt="Logo" src=".github/glass-logo-peq.jpg">
     <br>
     <p>Um site sobre o Google Glass</p>
