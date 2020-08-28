@@ -28,7 +28,9 @@ Com a proposta de fazer um site sobre o Google Glass e todas as suas funcionalid
 
 # :tv: Preview
 
-<iframe src="https://giphy.com/embed/dxxLPk3P07Ju5M67dp" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dxxLPk3P07Ju5M67dp">via GIPHY</a></p>
+<div align="center">
+    <img src=".github/index.gif">
+</div>
 
 ---
 
