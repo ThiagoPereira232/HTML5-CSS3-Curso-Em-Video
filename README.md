@@ -24,6 +24,14 @@ Com a proposta de fazer um site sobre o Google Glass e todas as suas funcionalid
 
 ---
 
+<a id="preview">
+
+# :tv: Preview
+
+<iframe src="https://giphy.com/embed/dxxLPk3P07Ju5M67dp" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dxxLPk3P07Ju5M67dp">via GIPHY</a></p>
+
+---
+
 <a id="tecnologias-utilizadas">
 
 # :cd: Tecnologias utilizadas
