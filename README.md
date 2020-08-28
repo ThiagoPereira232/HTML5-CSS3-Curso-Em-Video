@@ -30,6 +30,8 @@ Com a proposta de fazer um site sobre o Google Glass e todas as suas funcionalid
 
 <div align="center">
     <img src=".github/index.gif">
+    <img src=".github/2.gif">
+
 </div>
 
 ---
