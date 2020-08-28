@@ -29,7 +29,7 @@ Com a proposta de fazer um site sobre o Google Glass e todas as suas funcionalid
 # :tv: Preview
 
 <div align="center">
-    <img src=".github/index.gif">
+    <img src=".github/index.gif" width="600px" height="auto">
 </div>
 
 ---
