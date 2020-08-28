@@ -29,9 +29,9 @@ Com a proposta de fazer um site sobre o Google Glass e todas as suas funcionalid
 # :tv: Preview
 
 <div align="center">
-    <img src=".github/index.gif" width="600px" height="auto">
-    <br>
-    <img src=".github/2.gif" width="600px" height="auto">
+    <img src=".github/index.gif" width="900px" height="auto">
+    <br><br>
+    <img src=".github/2.gif" width="900px" height="auto">
 </div>
 
 ---
